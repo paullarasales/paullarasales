@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paullarasales&label=Profile%20views&color=0e75b6&style=flat" alt="paullarasales" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paullarasales" alt="paullarasales" /></a> </p>
+
 
 - 🌱 I’m currently learning **Laravel**
 
