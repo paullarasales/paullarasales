@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Paul Sales</h1>
-<h3 align="center">A passionate backend developer from Philippines</h3>
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
