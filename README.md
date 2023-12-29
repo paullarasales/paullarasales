@@ -37,7 +37,7 @@
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=paullarasales&show_icons=true&locale=en" alt="paullarasales" /></p>
 
-  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=paullarasales&" alt="paullarasales" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paullarasales&" alt="paullarasales" /></p>
 </div>
 
 
