@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Paul Sales</h1>
+<h1> Paul Lara</h1>
 <img align="right" alt="Coding" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 
