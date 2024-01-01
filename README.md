@@ -30,18 +30,6 @@
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paullarasales&show_icons=true&locale=en&layout=compact" alt="paullarasales" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=paullarasales&show_icons=true&locale=en" alt="paullarasales" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paullarasales&" alt="paullarasales" />
-</div>
-
-
-
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
